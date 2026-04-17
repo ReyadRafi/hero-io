@@ -20,7 +20,7 @@ const APPS_DATA = [
   },
   {
     id: 2,
-    image: "https://placehold.co/300x300/059669/ffffff?text=SmPlan",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8441hPv-xz4J3S1NC9_ydQODBPp2GRay8Ew&s",
     title: "SmPlan: ToDo List With Reminder",
     companyName: "SmartDay Inc.",
     description:
@@ -39,7 +39,7 @@ const APPS_DATA = [
   },
   {
     id: 3,
-    image: "https://placehold.co/300x300/DC2626/ffffff?text=FLIP",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWscP5A3RxdFKlBH0o6gSiPoLwJu-5I_sPHg&s",
     title: "FLIP - Focus Timer For Study",
     companyName: "UIDesignLab",
     description:
@@ -58,7 +58,7 @@ const APPS_DATA = [
   },
   {
     id: 4,
-    image: "https://placehold.co/300x300/F59E0B/ffffff?text=Pomocat",
+    image: "https://play-lh.googleusercontent.com/2-coFiL20JMqVh6mWWyn1ZpkOxn90NGYkLSvj5lxlk6yBBucC5LpcLS0G_pq3xG8owbN=w480-h960-rw",
     title: "Pomocat - Cute Pomodoro Timer",
     companyName: "CatApp Studio",
     description:
@@ -77,7 +77,7 @@ const APPS_DATA = [
   },
   {
     id: 5,
-    image: "https://placehold.co/300x300/7C3AED/ffffff?text=TimePlanner",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfkL1mVdM7-CmA0mgjR-aLgPPUVx1z43y5cw&s",
     title: "Time Planner: Schedule & Tasks",
     companyName: "Avaz Inc.",
     description:
@@ -96,7 +96,7 @@ const APPS_DATA = [
   },
   {
     id: 6,
-    image: "https://placehold.co/300x300/10B981/ffffff?text=MorningHabits",
+    image: "https://play-lh.googleusercontent.com/kfpAxLPDEfpr3-uMNfHy8Xf4EmQZ-GvqhnOlytzM90j-3phnjAuHVreoo_ldEA8QGA=w480-h960-rw",
     title: "Morning Habits - Daily Routine",
     companyName: "Leap Fitness Group",
     description:
@@ -115,7 +115,7 @@ const APPS_DATA = [
   },
   {
     id: 7,
-    image: "https://placehold.co/300x300/0EA5E9/ffffff?text=FocusPlant",
+    image: "https://p16-lemon8-sign-sg.tiktokcdn.com/tos-maliva-v-ac5634-us/oQAAVH9AQiIOCRDa5ZBiUiP06bxpArSu9iuEb~tplv-sdweummd6v-text-logo-v1:QGlyaWRpdW1tYW5nbw==:q75.jpeg?lk3s=c7f08e79&source=lemon8_seo&x-expires=1778868000&x-signature=3jPt7w3N3rnVonftIReZ4tXuobY%3D",
     title: "Focus Plant: Pomodoro Forest",
     companyName: "Shenzhen Sunflower Inc.",
     description:
@@ -134,7 +134,7 @@ const APPS_DATA = [
   },
   {
     id: 8,
-    image: "https://placehold.co/300x300/EF4444/ffffff?text=Alarmy",
+    image: "https://image.winudf.com/v2/image1/Y29tLnN1eC5hbGFybWNsb2NrbmV3X2ljb25fMTYwMTg1OTAwN18wOTk/icon.png?w=312&fakeurl=1",
     title: "Alarmy - Alarm Clock & Sleep",
     companyName: "Alar Labs Inc.",
     description:
@@ -153,7 +153,7 @@ const APPS_DATA = [
   },
   {
     id: 9,
-    image: "https://placehold.co/300x300/8B5CF6/ffffff?text=Notion",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBYKPer6D47YDt-qdMVIEjaFYJA3mUMIMd-w&s",
     title: "Notion - Notes & Docs",
     companyName: "Notion Labs, Inc.",
     description:
@@ -172,7 +172,7 @@ const APPS_DATA = [
   },
   {
     id: 10,
-    image: "https://placehold.co/300x300/F97316/ffffff?text=Todoist",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOvuWMGMHxBeTekVCZKkZRfTYV3HP4rc6PdA&s",
     title: "Todoist: To-Do List & Planner",
     companyName: "Doist Inc.",
     description:
@@ -191,7 +191,7 @@ const APPS_DATA = [
   },
   {
     id: 11,
-    image: "https://placehold.co/300x300/14B8A6/ffffff?text=Headspace",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmu8Fh9w6Rf2qRPOizKGNZmpyY7FHqmMXgpA&s",
     title: "Headspace: Sleep & Meditation",
     companyName: "Headspace Inc.",
     description:
@@ -210,7 +210,7 @@ const APPS_DATA = [
   },
   {
     id: 12,
-    image: "https://placehold.co/300x300/6366F1/ffffff?text=Calm",
+    image: "https://play-lh.googleusercontent.com/S76GphUu2pZa249td2Bb4XAhLcPRrFdL1zp_5qU1ouukvRq9r0-8jJ-CruaTtdT6g84",
     title: "Calm - Sleep, Meditate, Relax",
     companyName: "Calm.com, Inc.",
     description:
@@ -229,7 +229,7 @@ const APPS_DATA = [
   },
   {
     id: 13,
-    image: "https://placehold.co/300x300/EC4899/ffffff?text=MyFitnessPal",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEH5s5jwQEz3t5yGcxo55m9flNu1HD_4trgA&s",
     title: "MyFitnessPal: Calorie Counter",
     companyName: "MyFitnessPal, Inc.",
     description:
@@ -248,7 +248,7 @@ const APPS_DATA = [
   },
   {
     id: 14,
-    image: "https://placehold.co/300x300/0891B2/ffffff?text=Duolingo",
+    image: "https://play-lh.googleusercontent.com/tw_coGKgk1K_zO-Ypf9zBKV1s-KT3dYN1MIUxIqtnbfmON5x_YmuoAr31gE4oSfJHNtA-aStTd-qe9R8S6NVyA",
     title: "Duolingo - Language Lessons",
     companyName: "Duolingo",
     description:
@@ -267,7 +267,7 @@ const APPS_DATA = [
   },
   {
     id: 15,
-    image: "https://placehold.co/300x300/7C3AED/ffffff?text=Habitica",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXQoRbN_svMBzDQDGcNWhNRIjYDxwS9-GRHw&s",
     title: "Habitica: Gamify Your Tasks",
     companyName: "HabitRPG, Inc.",
     description:
@@ -286,7 +286,7 @@ const APPS_DATA = [
   },
 {
   id: 16,
-  image: "https://placehold.co/300x300/D97706/ffffff?text=Streaks",
+  image: "https://kyujinjeon.com/wp-content/uploads/2025/03/streaks-app-logo.jpg",
   title: "Streaks - The Habit Tracker",
   companyName: "Crunchy Bagel Pty Ltd",
   description:
@@ -305,7 +305,7 @@ const APPS_DATA = [
 },
 {
   "id": 17,
-    "image": "https://placehold.co/300x300/3B82F6/ffffff?text=TickTick",
+    "image": "https://i.pcmag.com/imagery/reviews/00Eci0pqG2SVLDs8vlNv0s4-20.fit_scale.size_1028x578.v1767019583.png",
     "title": "TickTick: To-Do List & Calendar",
     "companyName": "TickTick Team",
     "description": "TickTick is a powerful to-do list and task manager that helps you organize your day, never miss a deadline, and achieve work-life balance. Features include calendar view, habit tracking, and a built-in Pomodoro timer.",
@@ -323,7 +323,7 @@ const APPS_DATA = [
   },
   {
     "id": 18,
-    "image": "https://placehold.co/300x300/A855F7/ffffff?text=Forestly",
+    "image": "https://cdn-bgp.bluestacks.com/BGP/us/gametiles_cc.forestapp.jpg",
     "title": "Forestly: Focus & Mindfulness",
     "companyName": "Green Labs Ltd.",
     "description": "Forestly combines deep focus with mindfulness exercises. Plant a tree each time you concentrate on your work. Over time, watch your forest grow while your productivity soars. Includes ambient sounds and breathing guides.",
@@ -341,7 +341,7 @@ const APPS_DATA = [
   },
   {
     "id": 19,
-    "image": "https://placehold.co/300x300/EF4444/ffffff?text=FocusMate",
+    "image": "https://s3-eu-west-1.amazonaws.com/tpd/logos/5cb4ab360e558d0001c27e4d/0x0.png",
     "title": "FocusMate - Virtual Coworking",
     "companyName": "FocusMate Inc.",
     "description": "Beat procrastination with virtual coworking sessions. Join a focused community, set a timer, and work alongside real people from around the world. Accountability and structure without the distractions.",
@@ -359,7 +359,7 @@ const APPS_DATA = [
   },
   {
     "id": 20,
-    "image": "https://placehold.co/300x300/06B6D4/ffffff?text=YogaNow",
+    "image": "https://play-lh.googleusercontent.com/hxv67NJ8BQRjnAQqBhfvd47JoLdGW87j2PRqLQAGGNIpckBtOmoe6BE9oX581QiOWzEf=w480-h960-rw",
     "title": "YogaNow: Daily Yoga & Meditation",
     "companyName": "Wellness Studio",
     "description": "YogaNow brings expert-led yoga and meditation to your home. With personalized plans, soothing music, and pose libraries, it's perfect for beginners and advanced practitioners alike. Reduce stress and increase flexibility.",
@@ -377,7 +377,7 @@ const APPS_DATA = [
   },
   {
     "id": 21,
-    "image": "https://placehold.co/300x300/10B981/ffffff?text=WaterMinder",
+    "image": "https://play-lh.googleusercontent.com/yjV-py7NP4xnXGt58J8S8jTOWyl1Ztv30tE4Q5awLFjmpZuv7ThiYwh3O6bt243c-A=w480-h960-rw",
     "title": "WaterMinder: Hydration Tracker",
     "companyName": "Fitness Apps Co.",
     "description": "Stay hydrated and healthy with WaterMinder. Set daily water goals, log intake quickly, and get smart reminders. Beautiful charts show your progress and help you build a lasting hydration habit.",
@@ -395,7 +395,7 @@ const APPS_DATA = [
   },
   {
     "id": 22,
-    "image": "https://placehold.co/300x300/EC4899/ffffff?text=SleepCycle",
+    "image": "https://play-lh.googleusercontent.com/dar3zPlTbJYfHtH0hG4WOOK28ujJTj5kz51SwDuZc-HrmSgjZyavEDY_k4jmiJ9QwFo=w480-h960-rw",
     "title": "Sleep Cycle: Alarm & Tracker",
     "companyName": "Sleep Labs AB",
     "description": "Wake up feeling rested with Sleep Cycle. It analyzes your sleep patterns and wakes you during your lightest sleep phase within a 30-minute window. Track snoring, sleep trends, and get detailed insights.",
@@ -413,7 +413,7 @@ const APPS_DATA = [
   },
   {
     "id": 23,
-    "image": "https://placehold.co/300x300/8B5CF6/ffffff?text=NotionCal",
+    "image": "https://play-lh.googleusercontent.com/ZpieHVHj503tx4YoFlsHOtjQ3edA9FE_yLocxpEecO0TQq0VcKbcsZ4fvjA9LzcRdmg=w480-h960-rw",
     "title": "Notion Calendar: Time & Tasks",
     "companyName": "Notion Labs, Inc.",
     "description": "Notion Calendar brings your schedules, tasks, and databases together. Sync with Google Calendar, drag-and-drop to reschedule, and see everything in one unified timeline. Perfect for power users.",
@@ -431,7 +431,7 @@ const APPS_DATA = [
   },
   {
     "id": 24,
-    "image": "https://placehold.co/300x300/F59E0B/ffffff?text=Minimalist",
+    "image": "https://play-lh.googleusercontent.com/RfTRnc8WRXieNrbQ_-FtWqJM908sPTSbFq8FOVpmLBsYz0V3N_UVjDcCbJ7mTN-wNKY2=w480-h960-rw",
     "title": "Minimalist: Simple To-Do List",
     "companyName": "Boring Studio",
     "description": "A beautifully simple to-do list that helps you focus on what matters. No distractions, no ads, no signup required. Just a clean list where you can organize tasks, set priorities, and check things off.",
