@@ -25,7 +25,7 @@ export default function Header() {
 
         {/* Button */}
         <a
-          href="https://github.com/your-username"
+          href="https://github.com/ReyadRafi"
           target="_blank"
           className="bg-purple-600 text-white px-4 py-2 rounded-md"
         >

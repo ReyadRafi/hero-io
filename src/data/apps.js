@@ -449,7 +449,7 @@ const APPS_DATA = [
   },
   {
     "id": 25,
-    "image": "https://placehold.co/300x300/0891B2/ffffff?text=MindShift",
+    "image": "https://scontent.fdac138-1.fna.fbcdn.net/v/t39.30808-6/306194614_448741000567990_5412420685745084745_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=1d70fc&_nc_ohc=CoCw9sX1AI4Q7kNvwFoted5&_nc_oc=Adps7_K5IjZIht912w_5rHb2_2xtotwaZwrRG8Br9MHFBJbljE2ZgKBL-7SSjWKskHg&_nc_zt=23&_nc_ht=scontent.fdac138-1.fna&_nc_gid=Ree56Un_QY8eGRJF7gk08g&_nc_ss=7a389&oh=00_Af31uReMGZDqr6SiayT7yzVcpXC_9k7v9HGPCLsfeSD4sQ&oe=69E7E16C",
     "title": "MindShift: CBT for Anxiety",
     "companyName": "Anxiety Canada",
     "description": "MindShift uses evidence-based Cognitive Behavioral Therapy (CBT) to help you manage anxiety, stress, and worry. Learn coping skills, track your mood, and challenge negative thoughts with guided exercises.",
@@ -485,7 +485,7 @@ const APPS_DATA = [
   },
   {
     "id": 27,
-    "image": "https://placehold.co/300x300/6366F1/ffffff?text=GoalTracker",
+    "image": "https://play-lh.googleusercontent.com/mGrT7DHPGRFsuUrewdLWt8F4spCnPiTmyFoHAEAZ1Fr-7u-4TAqOPGsr_QFu7qDqxdvy=w480-h960-rw",
     "title": "GoalTracker: Milestones & Habits",
     "companyName": "Achieve Labs",
     "description": "Set, track, and smash your goals with GoalTracker. Break big dreams into daily actions, visualize your progress, and celebrate milestones. Perfect for New Year's resolutions, fitness goals, or learning a skill.",
@@ -503,7 +503,7 @@ const APPS_DATA = [
   },
   {
     "id": 28,
-    "image": "https://placehold.co/300x300/EA580C/ffffff?text=Breathwork",
+    "image": "https://play-lh.googleusercontent.com/N7qqx00aA4WoqLoezrQ8w-Lvz1TKM60AHcgZQVBIjf9UITJgS5zp8Rt70d1Zs8mJ4Q=w7680-h4320-rw",
     "title": "Breathwork: Calm & Relax",
     "companyName": "Breathe Easy Inc.",
     "description": "Master the art of breathing with guided sessions. Reduce anxiety, improve focus, and fall asleep faster with scientifically-backed breathing techniques. Customize patterns and get real-time feedback.",
@@ -521,7 +521,7 @@ const APPS_DATA = [
   },
   {
     "id": 29,
-    "image": "https://placehold.co/300x300/14B8A6/ffffff?text=TimeLogger",
+    "image": "https://play-lh.googleusercontent.com/z9U22qhQzSqhGuWZsm7SrooQBB87ckJhA_x1Ah6sF0CJdsVzPX1h2hda_gg-KFk7-Q=w480-h960-rw",
     "title": "TimeLogger: Automatic Tracker",
     "companyName": "Timing Software",
     "description": "TimeLogger automatically tracks how you spend time on your phone and across apps. Get detailed reports, set productivity goals, and reduce screen time. No manual entry required – just insights.",
@@ -539,7 +539,7 @@ const APPS_DATA = [
   },
   {
     "id": 30,
-    "image": "https://placehold.co/300x300/7C3AED/ffffff?text=NoteLedge",
+    "image": "https://play-lh.googleusercontent.com/JjoDOJ1bnIZgDagIJhfsUPFjMi5jy2iAgMdlXEEwnbcc5NLQtZW8fcTcijMxV7wP1nCo",
     "title": "NoteLedge: Notebook & Journal",
     "companyName": "Creative Apps Ltd.",
     "description": "NoteLedge is a powerful digital notebook that combines handwriting, typing, sketching, and media clipping. Organize ideas, annotate PDFs, and sync across all devices. Your creative canvas.",
@@ -575,7 +575,7 @@ const APPS_DATA = [
   },
   {
     "id": 32,
-    "image": "https://placehold.co/300x300/3B82F6/ffffff?text=DeepWork",
+    "image": "https://img.drz.lazcdn.com/static/bd/p/f7f92dbbc2f85bc0491d5d3e1bdc9e1b.jpg_720x720q80.jpg_.webp",
     "title": "Deep Work: Focus Music",
     "companyName": "AudioFocus Inc.",
     "description": "Boost concentration with scientifically-designed focus music. Binaural beats, alpha waves, and ambient soundscapes mask distractions and put your brain in a flow state. Timer and analytics included.",
@@ -629,7 +629,7 @@ const APPS_DATA = [
   },
   {
     "id": 35,
-    "image": "https://placehold.co/300x300/EF4444/ffffff?text=PomodoroPro",
+    "image": "https://play-lh.googleusercontent.com/W_usKXq5DW9fNOMDGhTme3Oza3_K1qFjZ8Hm68tgqRkGcM-VeKKTpnnsua8VqHSCxKw",
     "title": "Pomodoro Pro: Timer & Tasks",
     "companyName": "TimeFlow Studio",
     "description": "Advanced Pomodoro timer with task integration, statistics, and customization. Work in focused intervals, track completed sessions, and analyze your productivity patterns. Syncs across devices.",
@@ -647,7 +647,7 @@ const APPS_DATA = [
   },
   {
     "id": 36,
-    "image": "https://placehold.co/300x300/06B6D4/ffffff?text=HabitHub",
+    "image": "https://cdn.aptoide.com/imgs/4/2/c/42c9fae7f589f3cf068ac7c5566831c6_icon.png",
     "title": "HabitHub: Habit Tracker",
     "companyName": "StreakSoft",
     "description": "Track unlimited habits with beautiful calendars and heatmaps. Set reminders, view detailed statistics, and join challenges with friends. The most flexible habit tracker on mobile.",
@@ -665,7 +665,7 @@ const APPS_DATA = [
   },
   {
     "id": 37,
-    "image": "https://placehold.co/300x300/8B5CF6/ffffff?text=RescueTime",
+    "image": "https://scontent.fdac138-2.fna.fbcdn.net/v/t39.30808-6/462754712_984421933682742_1690518609952029436_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=1d70fc&_nc_ohc=jtUK2g578VoQ7kNvwFc1GjV&_nc_oc=Adqr46mkiWfN4f1Gx7qR12AcKhdd0jJMBjzMaXS9Ekx2-K2OdXvcs1Pufl3QOWSJ_IE&_nc_zt=23&_nc_ht=scontent.fdac138-2.fna&_nc_gid=mWoJTK4Ctuvm7iZXPgsccg&_nc_ss=7a389&oh=00_Af2anN2qezGaHfeQM1BoVsUCxhyt_MpQCeYO9M344n0YKQ&oe=69E7FFA1",
     "title": "RescueTime: Digital Balance",
     "companyName": "RescueTime Inc.",
     "description": "Automatically track your digital habits and get a clear picture of where your time goes. Set focus goals, block distractions, and improve your productivity with detailed reports and insights.",
@@ -719,7 +719,7 @@ const APPS_DATA = [
   },
   {
     "id": 40,
-    "image": "https://placehold.co/300x300/EC4899/ffffff?text=Reflectly",
+    "image": "https://play-lh.googleusercontent.com/lxYw_9uUDkLSKdRhlAuSf0Pzrfzl9eUIFMwZ2O67XS9ujERjmSrkLbZDKyak_fMOtB0=w480-h960-rw",
     "title": "Reflectly: AI Journal",
     "companyName": "Reflectly ApS",
     "description": "Reflectly uses AI to help you journal smarter. Get personalized prompts, track your mood patterns, and uncover insights about your emotional well-being. A beautiful space for daily reflection.",
